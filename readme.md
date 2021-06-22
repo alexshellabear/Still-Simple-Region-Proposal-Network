@@ -45,7 +45,7 @@ The key piece of code you will need to change to use this program for your own p
 Note:
 1) The dataset_util.py module only works on video files, could be extended to images
 2) There is no labelling function but this can be developed for your own dataset.  
-3) Does not account for a large scale object and does not use Non-maximum Suppression (NMS).
+3) Does not use Non-maximum Suppression (NMS).
 
 # Project Research #
 All the things that were looked at as part of this project
